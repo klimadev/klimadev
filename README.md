@@ -12,9 +12,9 @@ Olá! Eu sou Kauã Lima, um apaixonado por tecnologia e entusiasta do código ab
 
 Aqui estão alguns projetos que estou orgulhoso de ter trabalhado:
 
-1. [https://github.com/Henrique3h0/maps](link):Automatização para obter clientes no google maps.
-2. [https://github.com/Henrique3h0/curriculum_generator](link): Gere rapidamente um curriculum para você.
-3. [https://github.com/Henrique3h0/API-PIX](link): um SDK HardCode do mercado pago para facilitar implementações PIX.
+1. [MAPS SCRAPER](https://github.com/Henrique3h0/maps):Automatização para obter clientes no google maps.
+2. [Curriculum Generator](https://github.com/Henrique3h0/curriculum_generator): Gere rapidamente um curriculum para você.
+3. [API PIX](https://github.com/Henrique3h0/API-PIX): um SDK HardCode do mercado pago para facilitar implementações PIX.
 
 ## Estatísticas do GitHub
 
@@ -22,9 +22,9 @@ Aqui estão alguns projetos que estou orgulhoso de ter trabalhado:
 
 ## Entre em Contato
 
-- LinkedIn: [(https://www.linkedin.com/in/kau%C3%A3-lima-ba80912bb/)](link)
-- Instagram: [@000_kaua000](link)
-- Website: [https://henrique3h0.github.io/](link)
+- LinkedIn: [Link](https://www.linkedin.com/in/kau%C3%A3-lima-ba80912bb/)
+- Instagram: [link](@000_kaua000)
+- Website: [link](https://henrique3h0.github.io/)
 
 ## Contribuições
 
