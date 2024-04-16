@@ -22,7 +22,7 @@ Aqui estão alguns projetos que estou orgulhoso de ter trabalhado:
 
 ## Entre em Contato
 
-- LinkedIn: [[Seu Perfil do LinkedIn](https://www.linkedin.com/in/kau%C3%A3-lima-ba80912bb/)](link)
+- LinkedIn: [(https://www.linkedin.com/in/kau%C3%A3-lima-ba80912bb/)](link)
 - Instagram: [@000_kaua000](link)
 - Website: [https://henrique3h0.github.io/](link)
 
