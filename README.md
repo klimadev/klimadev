@@ -7,7 +7,7 @@ Olá! Eu sou Kauã Lima, um entusiasta da tecnologia e um apaixonado pelo mundo 
 Atualmente, estou mergulhando em explorar novos mercados e ampliar minha compreensão de diversas áreas da tecnologia. Estou sempre em busca de novas habilidades e experiências que possam enriquecer meu percurso como desenvolvedor.
 
 - 🚀 **Explorando novos mercados** e buscando maneiras de aplicar minhas habilidades em novos contextos.
-- 🌱 **Aprendendo DJANGO** de forma contínua, buscando dominar suas nuances e capacidades.
+- 🌱 **Usando DJANGO** de forma contínua, buscando dominar suas nuances e capacidades.
 - 💼 **Em busca de oportunidades empolgantes** na área de desenvolvimento de sistemas para internet, onde posso contribuir com meu conhecimento e criatividade.
 
 ## Projetos em Destaque
@@ -26,7 +26,7 @@ Aqui estão alguns projetos nos quais tenho muito orgulho de ter trabalhado:
 
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-Kau%C3%A3%20Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kau%C3%A3-lima-ba80912bb/)](https://www.linkedin.com/in/kau%C3%A3-lima-ba80912bb/)
 - **Instagram:** [![Instagram](https://img.shields.io/badge/-@000__kaua000-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/000_kaua000/)](https://www.instagram.com/000_kaua000/)
-- **Website:** [![Website](https://img.shields.io/badge/-Meu%20Site-ff69b4?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://henrique3h0.github.io/)](https://henrique3h0.github.io/)
+- **Website:** [![Website](https://img.shields.io/badge/-Meu%20Site-ff69b4?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://henrique3h0.github.io/)](https:/limawebvision.site)
 
 ## Contribuições
 
