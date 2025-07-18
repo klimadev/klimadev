@@ -1,37 +1,105 @@
-# Olá! Seja muito bem-vindo ao meu Perfil do GitHub! 👋
+<h1 align="center">Olá, eu sou o Kauã Lima! 👋</h1>
+<h3 align="center">Fundador da Lima Webvision | CTO & Co-owner na Zentra | Entusiasta de IA</h3>
 
-## Sobre mim
+---
 
-Olá! Eu sou Kauã Lima, um entusiasta da tecnologia e um apaixonado pelo mundo do código aberto. Estou constantemente buscando novos desafios e oportunidades para expandir meus conhecimentos e crescer como desenvolvedor.
+## 🚀 A Origem de Tudo: A Caixa Preta Mágica
 
-Atualmente, estou mergulhando em explorar novos mercados e ampliar minha compreensão de diversas áreas da tecnologia. Estou sempre em busca de novas habilidades e experiências que possam enriquecer meu percurso como desenvolvedor.
+> Minha história começa aos 4 anos, vidrado na tela de um computador. Para mim, não era só uma máquina. Era uma **"caixa preta mágica"**, um universo de possibilidades que eu não entendia completamente, mas sabia que queria desvendar. Aquele fascínio nunca foi embora.
 
-- 🚀 **Explorando novos mercados** e buscando maneiras de aplicar minhas habilidades em novos contextos.
-- 🌱 **Usando DJANGO** de forma contínua, buscando dominar suas nuances e capacidades.
-- 💼 **Em busca de oportunidades empolgantes** na área de desenvolvimento de sistemas para internet, onde posso contribuir com meu conhecimento e criatividade.
+## 👨‍💻 Aprendendo "Errado" (e por que isso deu certo)
 
-## Projetos em Destaque
+Eu não segui o caminho tradicional. Aos 11 anos, me joguei em Lua no Roblox. Minha escola foi o Google e a curiosidade.
 
-Aqui estão alguns projetos nos quais tenho muito orgulho de ter trabalhado:
+*   **Meu método:** Em vez de pesquisar "como aprender Python", eu buscava "como programar uma calculadora". Em vez de um livro de HTML, era "como fazer um site". Essa abordagem me fez pular de tecnologia em tecnologia, aprendendo o essencial de cada uma para dar vida às minhas ideias.
 
-1. [🌐 MAPS SCRAPER](https://github.com/Henrique3h0/maps): Uma ferramenta de automação desenvolvida para obter informações valiosas de clientes no Google Maps, tornando o processo mais eficiente e ágil.
-2. [📄 Gerador de Currículo](https://github.com/Henrique3h0/curriculum_generator): Uma ferramenta poderosa para gerar currículos de forma rápida e fácil, facilitando a criação de documentos profissionais e atrativos.
-3. [💸 API PIX](https://github.com/Henrique3h0/API-PIX): Um SDK HardCode do Mercado Pago projetado para simplificar e agilizar a implementação do PIX, uma solução financeira inovadora.
+*   **A "desvantagem" que virou poder:** Eu não me aprofundei ao máximo em UMA coisa só. Em vez disso, fiquei perigosamente bom em VÁRIAS. Hoje, não choro pelo tempo que "perdi", porque essa base ampla me permite aprender qualquer nova tecnologia com uma velocidade absurda.
 
-## Estatísticas do GitHub
+*   **O lado hacker:** Antes de querer construir, eu queria entender como quebrar. Comecei como *script kiddie*, baixando uns "softwares de exploração altamente seguros" (cof, cof) para fuçar nos meus próprios mapas. Mas a emoção de só explorar sistemas prontos passou rápido. A verdadeira adrenalina estava em entender **como eles foram construídos** e enfrentar os desafios de criar algo do zero.
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Henrique3h0&show_icons=true&theme=radical&bg_color=00000000)
+---
 
-## Como me encontrar?
+## 🏢 Minhas Empreitadas & Negócios
 
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-Kau%C3%A3%20Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kau%C3%A3-lima-ba80912bb/)](https://www.linkedin.com/in/kau%C3%A3-lima-ba80912bb/)
-- **Instagram:** [![Instagram](https://img.shields.io/badge/-@000__kaua000-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/000_kaua000/)](https://www.instagram.com/000_kaua000/)
-- **Website:** [![Website](https://img.shields.io/badge/-Meu%20Site-ff69b4?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://henrique3h0.github.io/)](https:/limawebvision.site)
+O que começou como curiosidade, virou estratégia de negócio.
 
-## Contribuições
+*   🚀 **[Lima Webvision](https://limawebvision.site):** Minha base de operações, 100% minha. É a minha empresa principal, onde eu transformo ideias complexas em soluções digitais funcionais, desde sistemas web a automações de ponta.
 
-Se você estiver interessado em colaborar em algum dos meus projetos ou tiver alguma sugestão, não hesite em entrar em contato comigo! Estou sempre aberto a novas ideias e colaborações que possam enriquecer nossos projetos.
+*   🤝 **Zentra:** Meu foco principal hoje. É um projeto de IA para automação de vendas que toco **junto com meu sócio**. É a nossa aposta para revolucionar a comunicação de empresas no WhatsApp.
 
-## Agradecimentos
+*   👾 **Lima DTBots (Uma Lição de Negócios):** Essa tem uma história diferente. Não comecei do zero: foi uma **empresa que comprei** para adquirir a marca e a base de clientes. Após melhorar os bots e fazer um bom dinheiro, decidi encerrar a operação para focar 100% na Lima Webvision e na Zentra. Fica o aprendizado estratégico.
 
-Quero expressar meu sincero agradecimento por visitar meu perfil do GitHub! Sinta-se à vontade para explorar meus projetos e não hesite em entrar em contato se tiver alguma pergunta ou sugestão. Espero que possamos colaborar e aprender juntos em nosso caminho na tecnologia.
+---
+
+## 💡 O Laboratório de IA: Projetos Atuais
+
+Meu foco agora é criar agentes inteligentes. Os projetos mais complexos estão em repositórios privados, mas aqui vai um gostinho do que está no forno:
+
+<p align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🤖 LARI (Agente de IA por Voz)</h3>
+        <p>Basicamente um Jarvis da vida real. Uma IA que você pode chamar por voz a qualquer momento para conversar ou pedir tarefas, enquanto você continua focado no que importa. Sempre ouvindo, sempre pronta.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">⌨️ GCA (Agente de Terminal Inteligente)</h3>
+        <p>O "irmão mais velho" e mais parrudo da LARI. Ele vive no seu terminal, pode ver sua tela, executar comandos com autonomia e otimizar seu fluxo de trabalho. Automação levada a sério.</p>
+      </td>
+    </tr>
+  </table>
+</p>
+
+## 🛠️ Meu Arsenal de Tecnologias
+
+<p align="center">
+  <strong>Backend & Linguagens</strong><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-7389D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PIX-32BCAD?style=for-the-badge&logo=pix&logoColor=white" />
+</p>
+<p align="center">
+  <strong>Web & Frontend</strong><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+<p align="center">
+  <strong>DevOps & Ferramentas</strong><br>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=wsl&logoColor=white" />
+</p>
+
+## 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klimadev&show_icons=true&theme=radical&bg_color=00000000&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klimadev&layout=compact&langs_count=7&theme=radical&bg_color=00000000"/>
+</p>
+
+## 🤝 Vamos nos Conectar?
+
+Olha, perfis do GitHub podem ser bem formais, né? Mas a verdade é que o código que você vê aqui é mais do que só trabalho — é uma parte de quem eu sou e da minha jornada.
+
+Eu acredito em conhecimento compartilhado. Ao explorar meus repositórios, você não vai ver apenas linhas de código, mas a **evolução de ideias** e a solução de problemas reais. É a minha "caixa preta mágica" aberta para o mundo.
+
+Então, fica o convite: mergulhe nos projetos, veja o que te interessa e, se curtir, **me siga por aqui!** Ficarei feliz em ter você por perto, acompanhando as novidades e, quem sabe, trocando uma ideia. Afinal, as melhores inovações nascem de boas conversas.
+
+## 📫 Onde me Encontrar
+
+<p align="left">
+  <a href="https://linkedin.com/in/kauã-lima-ba80912bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/000_kaua000" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://limawebvision.site" target="_blank">
+    <img src="https://img.shields.io/badge/Meu_Site-D14836?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
