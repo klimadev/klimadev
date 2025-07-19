@@ -1,7 +1,12 @@
 <h1 align="center">Olá, eu sou o Kauã Lima! 👋</h1>
 <h3 align="center">Fundador da Lima Webvision | CTO & Co-owner na Zentra | Entusiasta de IA</h3>
 
-![snake gif](https://github.com/klimadev/klimadev/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://klimadev.github.io/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://klimadev.github.io/output/github-snake.svg" />
+  <img alt="github-snake" src="https://klimadev.github.io/output/github-snake.svg" />
+</picture>
+
 
 ---
 
