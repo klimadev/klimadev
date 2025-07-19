@@ -1,6 +1,8 @@
 <h1 align="center">Olá, eu sou o Kauã Lima! 👋</h1>
 <h3 align="center">Fundador da Lima Webvision | CTO & Co-owner na Zentra | Entusiasta de IA</h3>
 
+![github contribution grid snake](https://klimadev.github.io/output/github-contribution-grid-snake.gif)
+
 ---
 
 ## 🚀 A Origem de Tudo: A Caixa Preta Mágica
