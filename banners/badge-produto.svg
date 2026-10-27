@@ -1,0 +1,5 @@
+<svg width="116" height="30" viewBox="0 0 116 30" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="produto">
+  <rect x="1" y="1" width="114" height="28" rx="15" fill="#0e7490"/>
+  <circle cx="16" cy="15" r="5" fill="#ffffff"/>
+  <text x="67" y="20" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">produto</text>
+</svg>

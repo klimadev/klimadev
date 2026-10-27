@@ -1,113 +1,112 @@
-<h1 align="center">Olá, eu sou o Kauã Lima! 👋</h1>
-<h3 align="center">Fundador da Lima Webvision | CTO & Co-owner na Zentra | Entusiasta de IA</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/klimadev/klimadev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/klimadev/klimadev/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/klimadev/klimadev/output/github-snake.svg" />
-</picture>
-
-
-
----
-
-## 🚀 A Origem de Tudo: A Caixa Preta Mágica
-
-> Minha história começa aos 4 anos, vidrado na tela de um computador. Para mim, não era só uma máquina. Era uma **"caixa preta mágica"**, um universo de possibilidades que eu não entendia completamente, mas sabia que queria desvendar. Aquele fascínio nunca foi embora.
-
-## 👨‍💻 Aprendendo "Errado" (e por que isso deu certo)
-
-Eu não segui o caminho tradicional. Aos 11 anos, me joguei em Lua no Roblox. Minha escola foi o Google e a curiosidade.
-
-*   **Meu método:** Em vez de pesquisar "como aprender Python", eu buscava "como programar uma calculadora". Em vez de um livro de HTML, era "como fazer um site". Essa abordagem me fez pular de tecnologia em tecnologia, aprendendo o essencial de cada uma para dar vida às minhas ideias.
-
-*   **A "desvantagem" que virou poder:** Eu não me aprofundei ao máximo em UMA coisa só. Em vez disso, fiquei perigosamente bom em VÁRIAS. Hoje, não choro pelo tempo que "perdi", porque essa base ampla me permite aprender qualquer nova tecnologia com uma velocidade absurda.
-
-*   **O lado hacker:** Antes de querer construir, eu queria entender como quebrar. Comecei como *script kiddie*, baixando uns "softwares de exploração altamente seguros" (cof, cof) para fuçar nos meus próprios mapas. Mas a emoção de só explorar sistemas prontos passou rápido. A verdadeira adrenalina estava em entender **como eles foram construídos** e enfrentar os desafios de criar algo do zero.
-
----
-
-## 🏢 Minhas Empreitadas & Negócios
-
-O que começou como curiosidade, virou estratégia de negócio.
-
-*   🚀 **[Lima Webvision](https://limawebvision.site):** Minha base de operações, 100% minha. É a minha empresa principal, onde eu transformo ideias complexas em soluções digitais funcionais, desde sistemas web a automações de ponta.
-
-*   🤝 **Zentra:** Meu foco principal hoje. É um projeto de IA para automação de vendas que toco **junto com meu sócio**. É a nossa aposta para revolucionar a comunicação de empresas no WhatsApp.
-
-*   👾 **Lima DTBots (Uma Lição de Negócios):** Essa tem uma história diferente. Não comecei do zero: foi uma **empresa que comprei** para adquirir a marca e a base de clientes. Após melhorar os bots e fazer um bom dinheiro, decidi encerrar a operação para focar 100% na Lima Webvision e na Zentra. Fica o aprendizado estratégico.
-
----
-
-## 💡 O Laboratório de IA: Projetos Atuais
-
-Meu foco agora é criar agentes inteligentes. Os projetos mais complexos estão em repositórios privados, mas aqui vai um gostinho do que está no forno:
-
 <p align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🤖 LARI (Agente de IA por Voz)</h3>
-        <p>Basicamente um Jarvis da vida real. Uma IA que você pode chamar por voz a qualquer momento para conversar ou pedir tarefas, enquanto você continua focado no que importa. Sempre ouvindo, sempre pronta.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">⌨️ GCA (Agente de Terminal Inteligente)</h3>
-        <p>O "irmão mais velho" e mais parrudo da LARI. Ele vive no seu terminal, pode ver sua tela, executar comandos com autonomia e otimizar seu fluxo de trabalho. Automação levada a sério.</p>
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banners/wordmark-dark.svg?v=d382f04f" />
+    <source media="(prefers-color-scheme: light)" srcset="banners/wordmark-light.svg?v=924901e1" />
+    <img alt="Lima" src="banners/wordmark-dark.svg?v=d382f04f" width="460" />
+  </picture>
 </p>
 
-## 🛠️ Meu Arsenal de Tecnologias
-
 <p align="center">
-  <strong>Backend & Linguagens</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-7389D8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PIX-32BCAD?style=for-the-badge&logo=pix&logoColor=white" />
-</p>
-<p align="center">
-  <strong>Web & Frontend</strong><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-<p align="center">
-  <strong>DevOps & Ferramentas</strong><br>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=wsl&logoColor=white" />
+  <b>trago apps que já dão certo lá fora e trago pro Brasil</b><br />
+  <sub>preço, pagamento, idioma — e agora um gestor automático de prospecção</sub>
 </p>
 
-## 📊 Minhas Estatísticas no GitHub
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klimadev&show_icons=true&theme=radical&bg_color=00000000&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klimadev&layout=compact&langs_count=7&theme=radical&bg_color=00000000"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/klimadev/klimadev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/klimadev/klimadev/output/github-snake.svg" />
+    <img alt="animação da cobrinha" src="https://raw.githubusercontent.com/klimadev/klimadev/output/github-snake.svg" />
+  </picture>
 </p>
 
-## 🤝 Vamos nos Conectar?
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://terminal-typing-svg.vaidikv.workers.dev/svg?lines=%24%20whoami;lima;%24%20cat%20agora.md;trago%20apps%20de%20fora%20e%20trago%20pro%20brasil;%24%20tail%20erros.log;zentra%20morreu.%20chamalead%20morreu.%20o%20proximo%20vai%20passar.&prompt=klimadev&title=~/perfil&fontSize=19&width=680&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://terminal-typing-svg.vaidikv.workers.dev/svg?lines=%24%20whoami;lima;%24%20cat%20agora.md;trago%20apps%20de%20fora%20e%20trago%20pro%20brasil;%24%20tail%20erros.log;zentra%20morreu.%20chamalead%20morreu.%20o%20proximo%20vai%20passar.&prompt=klimadev&title=~/perfil&fontSize=19&width=680&theme=github-light" />
+    <img alt="terminal: whoami, cat agora.md, tail erros.log" src="https://terminal-typing-svg.vaidikv.workers.dev/svg?lines=%24%20whoami;lima;%24%20cat%20agora.md;trago%20apps%20de%20fora%20e%20trago%20pro%20brasil;%24%20tail%20erros.log;zentra%20morreu.%20chamalead%20morreu.%20o%20proximo%20vai%20passar.&prompt=klimadev&title=~/perfil&fontSize=19&width=680&theme=github-dark" width="680" />
+  </picture>
+</p>
 
-Olha, perfis do GitHub podem ser bem formais, né? Mas a verdade é que o código que você vê aqui é mais do que só trabalho — é uma parte de quem eu sou e da minha jornada.
+## de onde vim
 
-Eu acredito em conhecimento compartilhado. Ao explorar meus repositórios, você não vai ver apenas linhas de código, mas a **evolução de ideias** e a solução de problemas reais. É a minha "caixa preta mágica" aberta para o mundo.
+> aos 4 anos eu olhava pra tela do computador e achava que era uma **caixa preta mágica** — um universo que eu não entendia, mas queria desvendar. aos 11 anos eu já programava Lua no Roblox. minha escola foi o Google e a curiosidade: eu não pesquisava *"como aprender X"*, pesquisava *"como fazer Y"*. nunca segui o caminho tradicional, e foi por isso que cheguei até aqui.
 
-Então, fica o convite: mergulhe nos projetos, veja o que te interessa e, se curtir, **me siga por aqui!** Ficarei feliz em ter você por perto, acompanhando as novidades e, quem sabe, trocando uma ideia. Afinal, as melhores inovações nascem de boas conversas.
+## o que eu faço hoje
 
-## 📫 Onde me Encontrar
+| área | o quê | status | como |
+|:--|:--|:--|:--|
+| ![apps](banners/badge-apps.svg?v=0c14c673) | **trazer apps** | ![no ar](banners/badge-no-ar.svg?v=fba1ee56) | trago apps que já dão certo lá fora e trago pro Brasil: preço, pagamento, idioma |
+| ![produto](banners/badge-produto.svg?v=fdbe95c7) | **prumo** | ![no ar](banners/badge-no-ar.svg?v=fba1ee56) | gestão pra quem vive do comércio local: estoque, vendas, dinheiro e o que vale vender |
+| ![gestor](banners/badge-gestor.svg?v=182e6018) | **gestor de prospecção** | ![em obra](banners/badge-em-obra.svg?v=e1454f92) | automação que encontra cliente e monta a abordagem — privado, feito só pra mim |
+| ![infra](banners/badge-infra.svg?v=add298dc) | **vps, docker, pm2** | ![no ar](banners/badge-no-ar.svg?v=fba1ee56) | se quebrar de madrugada, quem acorda sou eu |
 
-<p align="left">
-  <a href="https://linkedin.com/in/kauã-lima-ba80912bb" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+## o laboratório de IA
+
+| | o quê | status | como |
+|:--|:--|:--|:--|
+| ![gestor](banners/badge-gestor.svg?v=182e6018) | **LARI** | ![em obra](banners/badge-em-obra.svg?v=e1454f92) | agente de IA por voz: um jarvis que você chama a qualquer momento, enquanto continua fazendo o que importa |
+| ![gestor](banners/badge-gestor.svg?v=182e6018) | **GCA** | ![em obra](banners/badge-em-obra.svg?v=e1454f92) | agente de terminal: enxerga a tela, executa comandos com autonomia e otimiza o fluxo de trabalho |
+
+## o que eu uso
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PM2-3D4F5C?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/VPS-8B5CF6?style=for-the-badge&logo=cloudflare&logoColor=white" alt="VPS" />
+</p>
+
+## o que já deu errado
+
+> **2019** · zentra ![morreu](banners/badge-morreu.svg?v=bea63222)
+> ia pra vender no whatsapp. caía toda hora e eu não dava suporte. mas vendeu: a demanda existia, eu que não aguentava o volume.
+>
+> **2022** · chamalead ![morreu](banners/badge-morreu.svg?v=bea63222)
+> a zentra de novo, do zero: virou serviço, depois CRM. três produtos com um nome só. não escalou.
+>
+> **2023 · 2024** · dtbots ![fechei](banners/badge-fechei.svg?v=d575d6c5)
+> comprei pra ter a marca, montei o produto por cima, e fechei quando percebi que eu tava construindo duas coisas ao mesmo tempo.
+>
+> **hoje** · prumo ![no ar](banners/badge-no-ar.svg?v=fba1ee56)
+> um produto só, focado em quem vive do comércio local.
+
+<details>
+<summary>post-mortem: o que cada fechamento me ensinou</summary>
+
+- **zentra** — a demanda existia, a entrega que não aguentava. eu vendia software e acabava fazendo suporte de whatsapp.
+- **chamalead** — três produtos com um nome só não escalam. foco é o que separa o prumo do resto.
+- **dtbots** — comprar marca não é construir produto. a base técnica que eu construí ali é o que roda o prumo hoje.
+
+</details>
+
+## meu github
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://terminal-typing-svg.vaidikv.workers.dev/stats?username=klimadev&style=heatmap&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://terminal-typing-svg.vaidikv.workers.dev/stats?username=klimadev&style=heatmap&theme=github-light" />
+    <img alt="estatísticas do GitHub: stars, pull requests, issues, contribuições e dia de streak" src="https://terminal-typing-svg.vaidikv.workers.dev/stats?username=klimadev&style=heatmap&theme=github-dark" width="560" />
+  </picture>
+</p>
+
+## vamos conversar
+
+perfil de github costuma ser formal, né? mas o código aqui é mais do que trabalho — é a evolução de ideias e a solução de problemas reais. a "caixa preta mágica" aberta pro mundo.
+
+se curtir, **me segue por aqui**. e se rolar uma ideia, troca comigo: as melhores inovações nascem de boas conversas.
+
+## onde me achar
+
+<p align="center">
+  <a href="https://linkedin.com/in/kau%C3%A3-lima-ba80912bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/000_kaua000" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://limawebvision.site" target="_blank">
-    <img src="https://img.shields.io/badge/Meu_Site-D14836?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://prumo.hypecrm.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/prumo.hypecrm.com.br-22C55E?style=for-the-badge&logoColor=white" alt="prumo.hypecrm.com.br" />
   </a>
 </p>

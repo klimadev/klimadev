@@ -1,0 +1,5 @@
+# cache de build do gerador de assets
+.fontcache-*.b64
+.jbm.ttf
+.jbm.woff2
+__pycache__/
