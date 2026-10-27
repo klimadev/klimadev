@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>trago apps que já dão certo lá fora e trago pro Brasil</b><br />
-  <sub>preço, pagamento, idioma — e agora um gestor automático de prospecção</sub>
+  <sub>preço, pagamento, idioma. e agora um gestor automático de prospecção</sub>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## de onde vim
 
-> aos 4 anos eu olhava pra tela do computador e achava que era uma **caixa preta mágica** — um universo que eu não entendia, mas queria desvendar. aos 11 anos eu já programava Lua no Roblox. minha escola foi o Google e a curiosidade: eu não pesquisava *"como aprender X"*, pesquisava *"como fazer Y"*. nunca segui o caminho tradicional, e foi por isso que cheguei até aqui.
+> aos 4 anos eu olhava pra tela do computador e achava que era uma **caixa preta mágica**: um universo que eu não entendia, mas queria desvendar. aos 11 anos eu já programava Lua no Roblox. minha escola foi o Google e a curiosidade: em vez de "como aprender Python", eu buscava "como fazer uma calculadora". nunca segui o caminho tradicional, e foi por isso que cheguei até aqui.
 
 ## o que eu faço hoje
 
@@ -37,15 +37,15 @@
 |:--|:--|:--|:--|
 | ![apps](banners/badge-apps.svg?v=0c14c673) | **trazer apps** | ![no ar](banners/badge-no-ar.svg?v=fba1ee56) | trago apps que já dão certo lá fora e trago pro Brasil: preço, pagamento, idioma |
 | ![produto](banners/badge-produto.svg?v=fdbe95c7) | **prumo** | ![no ar](banners/badge-no-ar.svg?v=fba1ee56) | gestão pra quem vive do comércio local: estoque, vendas, dinheiro e o que vale vender |
-| ![gestor](banners/badge-gestor.svg?v=182e6018) | **gestor de prospecção** | ![em obra](banners/badge-em-obra.svg?v=e1454f92) | automação que encontra cliente e monta a abordagem — privado, feito só pra mim |
+| ![gestor](banners/badge-gestor.svg?v=182e6018) | **gestor de prospecção** | ![em obra](banners/badge-em-obra.svg?v=e1454f92) | automação que acha cliente e monta a abordagem. privado, feito só pra mim |
 | ![infra](banners/badge-infra.svg?v=add298dc) | **vps, docker, pm2** | ![no ar](banners/badge-no-ar.svg?v=fba1ee56) | se quebrar de madrugada, quem acorda sou eu |
 
 ## o laboratório de IA
 
-| | o quê | status | como |
+| projeto | o que é | status | como funciona |
 |:--|:--|:--|:--|
-| ![gestor](banners/badge-gestor.svg?v=182e6018) | **LARI** | ![em obra](banners/badge-em-obra.svg?v=e1454f92) | agente de IA por voz: um jarvis que você chama a qualquer momento, enquanto continua fazendo o que importa |
-| ![gestor](banners/badge-gestor.svg?v=182e6018) | **GCA** | ![em obra](banners/badge-em-obra.svg?v=e1454f92) | agente de terminal: enxerga a tela, executa comandos com autonomia e otimiza o fluxo de trabalho |
+| **LARI** | agente de IA por voz | ![em obra](banners/badge-em-obra.svg?v=e1454f92) | você chama por voz a qualquer momento pra conversar ou pedir tarefa, enquanto segue focado no que importa |
+| **GCA** | agente de terminal | ![em obra](banners/badge-em-obra.svg?v=e1454f92) | vive no seu terminal, enxerga a tela, executa comandos com autonomia e otimiza seu fluxo |
 
 ## o que eu uso
 
@@ -75,9 +75,9 @@
 <details>
 <summary>post-mortem: o que cada fechamento me ensinou</summary>
 
-- **zentra** — a demanda existia, a entrega que não aguentava. eu vendia software e acabava fazendo suporte de whatsapp.
-- **chamalead** — três produtos com um nome só não escalam. foco é o que separa o prumo do resto.
-- **dtbots** — comprar marca não é construir produto. a base técnica que eu construí ali é o que roda o prumo hoje.
+- zentra: a demanda existia, a entrega que não aguentava. eu vendia software e acabava fazendo suporte de whatsapp.
+- chamalead: três produtos com um nome só não escalam. foco é o que separa o prumo do resto.
+- dtbots: comprar marca não é construir produto. a base técnica que eu construí ali é o que roda o prumo hoje.
 
 </details>
 
@@ -93,9 +93,9 @@
 
 ## vamos conversar
 
-perfil de github costuma ser formal, né? mas o código aqui é mais do que trabalho — é a evolução de ideias e a solução de problemas reais. a "caixa preta mágica" aberta pro mundo.
+perfil de github costuma ser formal, né? mas aqui tem o código e a história por trás dele: como cada coisa foi construída e o que deu errado no caminho. a "caixa preta mágica" aberta pro mundo.
 
-se curtir, **me segue por aqui**. e se rolar uma ideia, troca comigo: as melhores inovações nascem de boas conversas.
+se curtir, **me segue por aqui**. e se rolar uma ideia, troca comigo.
 
 ## onde me achar
 
